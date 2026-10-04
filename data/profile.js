@@ -66,7 +66,7 @@ PORTFOLIO.profile = {
     },
     {
       title: "B.Sc. in Computer Science & Engineering",
-      meta: "AUST, Dhaka, 2018 – 2022, CGPA 3.35 / 4.00",
+      meta: "AUST, Dhaka, 2017 – 2022, CGPA 3.35 / 4.00",
     },
   ],
 
